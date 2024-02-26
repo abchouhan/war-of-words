@@ -1,3 +1,6 @@
+# Mountain Madness 2023 Hackathon
+A time-attack style word decrpting game.
+
 # Build instructions:
 1. Unzip file
 2. Navigate into folder and find "index.html"
