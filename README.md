@@ -1,5 +1,5 @@
 # Mountain Madness 2023 Hackathon
-A time-attack style word decrpting game.
+A time-attack style word decrypting game.
 
 # Build instructions:
 1. Unzip file
